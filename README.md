@@ -1,2 +1,2 @@
-# CV-Mask-detection
+# Face-Mask-Detection
  
