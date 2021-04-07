@@ -1,5 +1,5 @@
 imutils==0.5.4
-tensorflow_gpu==2.4.1
+tensorflow_cpu==2.4.1
 Werkzeug==1.0.1
 WTForms==2.3.3
 numpy==1.19.5
